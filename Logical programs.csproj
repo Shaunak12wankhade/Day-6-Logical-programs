@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Logical_programs.Reverse_number</StartupObject>
+    <StartupObject>Logical_programs.Coupon_number</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Coupon number.cs" />
     <Compile Include="Fibonacci series.cs" />
     <Compile Include="Perfect number.cs" />
     <Compile Include="Prime number.cs" />
